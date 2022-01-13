@@ -1,8 +1,12 @@
-Crud Simples em Django
-
-1-Ative a venv 
-    cd Scripts 
+# Crud Simples em [Django](https://www.djangoproject.com/)
+ 
+### Ative a venv
+    
+    cd Scripts
     activate
-2-Rode o servidor
+
+### Rode o servidor
+   
     cd ..
     python manage.py runserver
+    
